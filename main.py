@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # Вставь сюда свой токен
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7500688638:AAHB1YlBJxmDfmZXJdT4eMOAH6zX3ltp4Do"
 
 # Примеры уроков
 lessons = {
